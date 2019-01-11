@@ -1,0 +1,29 @@
+{
+  "name": "hyperstar-websocket",
+  "version": "1.0.0",
+  "description": "Make hyper(core|drive) easier to use in the browser - as a client/server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanramage/hyperstar-websocket.git"
+  },
+  "keywords": [
+    "dat",
+    "hypercore",
+    "hyperdrive",
+    "websocket"
+  ],
+  "author": "Ryan Ramage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanramage/hyperstar-websocket/issues"
+  },
+  "homepage": "https://github.com/ryanramage/hyperstar-websocket#readme",
+  "dependencies": {
+    "serve-handler": "^5.0.7",
+    "websocket-stream": "^5.1.2"
+  }
+}
